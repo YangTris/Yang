@@ -16,6 +16,7 @@ function Home() {
         Category
       </h2>
       <Category />  
+      Test Test hello world
     </>
   );
 }
